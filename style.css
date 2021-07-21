@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(100, 56, 56);
+    width: 100%;
+    text-align: center;
+}
+span{
+    color:white;
+}
+.client{
+
+    display: flex;
+    justify-content: space-around;
+}
+.spac{
+    
+    text-align: center;
+}
+.om{
+    
+    background-color: black;
+    
+}
+.vice{
+    display: flex;
+    text-align: center;
+}
+.lash{
+    width: 94%;
+    height: 100%;
+    
+}
+.las{
+    width: 80%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.fbutton{
+    display: flex;
+    justify-content: space-around;
+   
+}
+a{
+    text-decoration: none;
+}
